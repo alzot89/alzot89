@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alex, junior web developer currently studying at [Ynadex Praktikum](https://praktikum.yandex.ru) 
+# Hi there! 👋 I'm Alex, junior web developer currently studying at [Yandex Praktikum](https://praktikum.yandex.ru) 
 ---
 ## My projects: 
 ---
