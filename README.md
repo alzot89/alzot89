@@ -1,12 +1,8 @@
-# Hi there! 👋 I'm Alex, junior web developer currently studying at [Yandex Praktikum](https://praktikum.yandex.ru) 
+# Hi there! 👋 I'm Alex, junior web developer
 ---
-## My projects: 
----
-* Mesto - one page site with image cards, popups with forms and functionality of adding cards and changing profile info. 
-This project represents object-oriented paradigm in JavaScript. There are separate classes creating new cards and releases form validation. JS files connected to project as modules.
-For creating CSS structure i used methodology BEM nested. Link https://alzot89.github.io/mesto/
 
-<!--
+
+
 **alzot89/alzot89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +15,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alzot89)](https://github.com/alzot89/github-readme-stats)
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=alzot89&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=alzot89&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alzot89&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact" />
+</a>
+</div>
