@@ -19,15 +19,15 @@
 </p>
 <br />
 
-### :trophy: Моя статистика:
+### :signal_strength: Моя статистика:
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alzot89&show_icons=true&theme=vue)](https://github.com/alzot89/github-readme-stats) -->
 
 <div>
 <a href="https://github.com/alzot89/github-readme-stats">
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=alzot89&show_icons=true&theme=vue&hide=contribs" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alzot89&repo=github-readme-stats&show_icons=true&theme=vue&hide=contribs" />
 </a>
 <a href="https://github.com/alzot89/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alzot89&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alzot89&repo=convoychat&repo=convoychat" />
 </a>
 </div>
