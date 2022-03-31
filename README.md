@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Alex, junior web developer
 
-**You can look at my learning projects at pinned repo's**
+**You can look at my learning projects at pinned repo's** :arrow_down:
 
 - I'm willing to contribute to real projects
 - Would like to learn new frameworks
