@@ -1,14 +1,14 @@
-# Hi there! 👋 I'm Alex, junior web developer
+# Привет! Меня зовут Саша и я начинающий фронтэнд разработчик.
 
-**You can look at my learning projects at pinned repo's** :arrow_down:
+**Вы можете посмотреть мои проекты в прикрепленных репозиториях внизу** :arrow_down:
 
-- I'm willing to contribute to real projects
-- Would like to learn new frameworks
-- Wish to work with experienced colleagues
-- Wanna write clear and readble code
+- Я очень хочу поучаствовать в реальных проектах
+- Работать с опытными коллегами
+- Мне бы хотелось освоить новые фреймворки
+- Писать чистый и читабельный код
 
 
-### 🔨 My stack:
+### 🔨 Мой стэк:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -16,6 +16,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-### 📈 My stats:
+### 📈 Моя статистика:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alzot89&show_icons=true&theme=vue&hide=contribs)](https://github.com/alzot89/github-readme-stats)
